@@ -1,0 +1,1 @@
+Hands-on Linux lab covering IP addressing, routing, DNS resolution, HTTPS connectivity, and TCP socket inspection. Includes a Python web server, simulated service outage, troubleshooting steps, and interview questions.
