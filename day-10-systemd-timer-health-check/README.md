@@ -1,0 +1,1 @@
+Automated Linux health checks on Kali Linux with Bash and a user-level systemd timer. Logged uptime, memory, swap, and disk usage, verified a scheduled run, and used journalctl to diagnose and fix a 203/EXEC permission error.
