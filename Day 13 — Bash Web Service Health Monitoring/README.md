@@ -1,0 +1,1 @@
+Built a Bash health-check script on Kali Linux using curl to validate HTTP response content, log timestamped results, and return exit codes for automation. Verified outage detection and recovery across 4 test runs.
