@@ -1,0 +1,1 @@
+Configured systemd to automatically restart a Python HTTP service on Kali Linux, verified HTTP 200 within 3 seconds of a simulated crash, and used journal logs and socket checks to confirm recovery and intentional shutdown.
